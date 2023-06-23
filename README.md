@@ -1,7 +1,7 @@
 ## Hello 👋🏼, I'm Gerardo
 
-💕 Developing beautiful, stable and functional software</br>
-🤓 I’m currently learning</br>
+🪐 Developing beautiful, stable and functional software</br>
+🐱‍🏍 I’m currently learning</br>
 
 
 # 💻 Developing in:

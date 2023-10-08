@@ -8,8 +8,7 @@
 🌱 I’m currently learning</br>
 
 #### **Technologies**
-![VSCODE](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![TERMIINAL](https://img.shields.io/badge/Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white) ![NOTION](https://img.shields.io/badge/Notion-ffffff.svg?style=for-the-badge&logo=Notion&logoColor=black)
-
+![VSCODE](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![TERMIINAL](https://img.shields.io/badge/Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white)
 ####  **Languajes**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=CoffeeScript&logoColor=white)
 

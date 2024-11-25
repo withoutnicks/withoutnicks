@@ -1,25 +1,27 @@
-# 👋 Hi, I'm Gerardo!
-👩🏻‍💻 Web developer sharing about what I know and do<br/>
-👩🏻‍🎓 Studied [Information Systems Development](https://www.idat.edu.pe/carreras-para-gente-que-trabaja/computacion-informatica) at the Idat institute, Perú<br/>
-🌷 All my projects in my profile<br/>
+```
+█░█ █▀▀ █░░ █░░ █▀█ 
+█▀█ ██▄ █▄▄ █▄▄ █▄█
+```
+<pre>
+ ~> <strong>about.txt</strong>
+  I’m a frontend web developer. I have a degree in <a href="https://www.idat.edu.pe/carreras-para-gente-que-trabaja/computacion-informatica">Information Systems Development</a> from Idat Institute, Perú.
+ 
+ ~> <strong>languajes</strong>
+  - Javascript / Typescript
+  - PHP
+  - CSS
 
-# 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
-<br/>
+ ~> <strong>frameworks/library</strong>
+  - React
+  - Laravel
+  - Next
+  
+ ~> <strong>tools</strong>
+  - Terminal
+  - Git
+  - Visual Code
+</pre>
 
-
-# 💻 Tech Tools
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=fff&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-
-<br>
+<p align="center">
+  <img width="700" height="400" src="https://i.pinimg.com/736x/21/a6/d3/21a6d31b42480c1ab47f88d836744e16.jpg" />
+</p>

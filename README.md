@@ -5,7 +5,7 @@
 I'm programmer in 2026
 ```
 
-■ <strong>languajes</strong>
+■ <strong>skills</strong>
 
 <span><img src="https://img.shields.io/badge/HTML-000?logo=html5&logoColor=d97706&style=for-the-badge" alt="HTML Badge"></span>
 <span><img src="https://img.shields.io/badge/CSS-000?logo=css&logoColor=8b5cf6&style=for-the-badge" alt="CSS3 Badge"></span>
